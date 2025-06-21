@@ -19,7 +19,7 @@ public class Emp {
     public static void main(String[] args) {
         Emp e = new Emp();
         e.FName = "Suraj";
-        e.Occ = "Bakeel";
+        e.Occ = "IT";
         e.age = 30;
         e.LName = "Singh";
 
