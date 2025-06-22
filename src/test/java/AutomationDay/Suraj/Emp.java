@@ -10,10 +10,10 @@ public class Emp {
     String LName;
 
     void DisplayData() {
-        System.out.println("Age" + age);
-        System.out.println("Occupation" + Occ);
-        System.out.println("FirstName" + FName);
-        System.out.println("LastName" + LName);
+        System.out.println("Age"+":" + age);
+        System.out.println("Occupation"+":" + Occ);
+        System.out.println("FirstName"+":" + FName);
+        System.out.println("LastName"+":" + LName);
     }
 
     public static void main(String[] args) {
